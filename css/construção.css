@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    background-image: url(../img/em_construcao.png);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position-y: 150px;
+    background-position-x: center;
+    background-color: #FAFAD2;
+}
